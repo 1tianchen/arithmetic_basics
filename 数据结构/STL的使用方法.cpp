@@ -12,7 +12,7 @@
 using namespace std;
 int main()
 {	
-
+	int main
 }
 //
 // vector 变长数组. 分配空间与大小没有关系和次数有关
